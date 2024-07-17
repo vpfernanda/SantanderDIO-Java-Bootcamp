@@ -15,9 +15,15 @@ public class App {
         //bList.saveBanksToTxt("src/data/Banks.txt");
 
         Account ac = new CheckingAccount(5);
-        System.out.println(ac.toString());
         Account ac2 = new SavingsAccount(1, 1.5);
+        ac.deposit(1200);
+        ac.transfer(ac2, 500);
         System.out.println(ac2.toString());
+        System.out.println(ac.toString());
+        ac2.deposit(100);
+        System.out.println(ac2.toString());
+       
+
 
 
 

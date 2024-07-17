@@ -34,7 +34,7 @@ public abstract class Account {
     }
     
     public boolean withdraw(double value){
-        if(value<balance)
+        if(value>balance)
             return false;
         
         balance -= value;
