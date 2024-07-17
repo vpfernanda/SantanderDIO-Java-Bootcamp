@@ -1,0 +1,8 @@
+1 - Itaú
+2 - Inter
+3 - Nubank
+4 - Banco do Brasil
+5 - Caixa
+6 - C6Bank
+7 - PagSeguro
+8 - Mercantil
