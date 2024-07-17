@@ -20,4 +20,11 @@ This project was proposed as a part of Santander &DIO's Java Backend Bootcamp. T
 ## iPhone Model
 This project was proposed as a part of Santander & DIO's Java Bootcamp. It simply represents an iPhone and some of its most-used apps. This project was not designed for actual execution, but to exercise abstraction and POO concepts.
 
+## Collections 
+There are various projects in this folder. Each was implemented to practice the concept of each collection as Lists, Sets, and Maps. Those projects were created to solve some exercises proposed by DIOs in the Java Bootcamp.  
+
+## Digital Bank
+This activity was proposed as a part of Santander &DIO's Java Bootcamp. The main task is to implement an application that represents a digital bank with its main features (as deposit, withdrawal, etc).
+This project means to exercise the POO concepts, such as abstraction, polymorphism, and class hierarchy. Also, I implemented a class to persist some information on a file. 
+
 
